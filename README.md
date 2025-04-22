@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate developer who enjoys building interactive
 - 💻 Most of my projects are built using **HTML**, **CSS**, **JavaScript**, and **React**.
 - 🧠 I also code in **C** and **C++** for problem-solving and algorithmic practice.
 - 🌱 Always open to learning new technologies and tools.
-- 📫 How to reach me: [kushagrapanwar170@gmail.com] | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: [kushagrapanwar170@gmail.com] | [LinkedIn](https://www.linkedin.com/in/kushagra-panwar-b947b6270/)
 
 ---
 
